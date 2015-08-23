@@ -64,10 +64,34 @@
 	"buffers":
 	[
 		{
+			"file": "/C/xampp/htdocs/30anos/header.php",
+			"settings":
+			{
+				"buffer_size": 302,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/30anos/head.php",
+			"settings":
+			{
+				"buffer_size": 1209,
+				"line_ending": "Windows"
+			}
+		},
+		{
 			"file": "/C/xampp/htdocs/30anos/README.md",
 			"settings":
 			{
-				"buffer_size": 42,
+				"buffer_size": 52,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/30anos/conexao.php",
+			"settings":
+			{
+				"buffer_size": 452,
 				"line_ending": "Windows"
 			}
 		}
@@ -96,15 +120,18 @@
 	},
 	"file_history":
 	[
+		"/C/xampp/htdocs/30anos/index.php",
+		"/C/xampp/htdocs/30anos/lancamento.php",
+		"/C/xampp/htdocs/30anos/README.md",
+		"/C/xampp/htdocs/30anos/export2.php",
+		"/C/xampp/htdocs/30anos/conexao.php",
+		"/C/xampp/htdocs/30anos/ctrlSeguidores.php",
 		"/C/xampp/htdocs/30anos/menu.php",
 		"/C/xampp/htdocs/30anos/pesquisar.php",
 		"/C/xampp/htdocs/30anos/quadranteconsultar.php",
-		"/C/xampp/htdocs/30anos/ctrlSeguidores.php",
 		"/C/xampp/htdocs/30anos/.git/config",
 		"/C/xampp/htdocs/30anos/monitor.php",
-		"/C/xampp/htdocs/30anos/lancamento.php",
 		"/C/xampp/htdocs/30anos/quadranteregistrar.php",
-		"/C/xampp/htdocs/30anos/export2.php",
 		"/C/xampp/htdocs/30anos/PHPExcel/PHPExcel/CachedObjectStorage/CacheBase.php",
 		"/C/xampp/htdocs/30anos/PHPExcel/PHPExcel.php",
 		"/C/xampp/htdocs/30anos/export1.php",
@@ -123,7 +150,6 @@
 		"/C/xampp/htdocs/30anos/SAM_2886.JPG",
 		"/D/efitness/_funcs.php",
 		"/C/xampp/htdocs/30anos/header.php",
-		"/C/xampp/htdocs/30anos/index.php",
 		"/C/xampp/htdocs/30anos/pesquisar2.php",
 		"/C/xampp/htdocs/30anos/teste.php",
 		"/C/Users/DCortez/AppData/Local/Temp/Rar$DIa0.604/arrays.php",
@@ -142,7 +168,6 @@
 		"/D/efitness/mov/editarpagamento.html.php",
 		"/D/efitness/mov/control/recibo.php",
 		"/D/efitness/mov/matricula.html.php",
-		"/C/xampp/htdocs/30anos/conexao.php",
 		"/D/efitness/mov/entrada.php",
 		"/D/efitness/mov/estorno.html.php",
 		"/D/efitness/mcg/moeda.html.php",
@@ -319,28 +344,108 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 3,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/C/xampp/htdocs/30anos/README.md",
+					"file": "/C/xampp/htdocs/30anos/header.php",
 					"settings":
 					{
-						"buffer_size": 42,
+						"buffer_size": 302,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								42,
-								42
+								8,
+								8
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/xampp/htdocs/30anos/head.php",
+					"settings":
+					{
+						"buffer_size": 1209,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1209,
+								1209
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 17.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/xampp/htdocs/30anos/README.md",
+					"settings":
+					{
+						"buffer_size": 52,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								47,
+								47
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/xampp/htdocs/30anos/conexao.php",
+					"settings":
+					{
+						"buffer_size": 452,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								60,
+								60
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
