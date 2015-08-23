@@ -1,5 +1,4 @@
 <header>
-
 	<div class="container">
   		<div class="jumbotron">
     		<div class="container-fluid">
