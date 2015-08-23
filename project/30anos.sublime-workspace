@@ -64,50 +64,10 @@
 	"buffers":
 	[
 		{
-			"file": "/C/xampp/htdocs/30anos/ctrlSeguidores.php",
-			"settings":
-			{
-				"buffer_size": 1814,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/xampp/htdocs/30anos/.git/config",
-			"settings":
-			{
-				"buffer_size": 388,
-				"line_ending": "Unix"
-			}
-		},
-		{
 			"file": "/C/xampp/htdocs/30anos/README.md",
 			"settings":
 			{
-				"buffer_size": 39,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/xampp/htdocs/30anos/quadranteconsultar.php",
-			"settings":
-			{
-				"buffer_size": 3907,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/xampp/htdocs/30anos/pesquisar.php",
-			"settings":
-			{
-				"buffer_size": 3028,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/xampp/htdocs/30anos/menu.php",
-			"settings":
-			{
-				"buffer_size": 721,
+				"buffer_size": 42,
 				"line_ending": "Windows"
 			}
 		}
@@ -136,14 +96,15 @@
 	},
 	"file_history":
 	[
+		"/C/xampp/htdocs/30anos/menu.php",
 		"/C/xampp/htdocs/30anos/pesquisar.php",
 		"/C/xampp/htdocs/30anos/quadranteconsultar.php",
+		"/C/xampp/htdocs/30anos/ctrlSeguidores.php",
+		"/C/xampp/htdocs/30anos/.git/config",
 		"/C/xampp/htdocs/30anos/monitor.php",
 		"/C/xampp/htdocs/30anos/lancamento.php",
 		"/C/xampp/htdocs/30anos/quadranteregistrar.php",
-		"/C/xampp/htdocs/30anos/menu.php",
 		"/C/xampp/htdocs/30anos/export2.php",
-		"/C/xampp/htdocs/30anos/ctrlSeguidores.php",
 		"/C/xampp/htdocs/30anos/PHPExcel/PHPExcel/CachedObjectStorage/CacheBase.php",
 		"/C/xampp/htdocs/30anos/PHPExcel/PHPExcel.php",
 		"/C/xampp/htdocs/30anos/export1.php",
@@ -358,163 +319,28 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/C/xampp/htdocs/30anos/ctrlSeguidores.php",
-					"settings":
-					{
-						"buffer_size": 1814,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1428,
-								1428
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 105.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "/C/xampp/htdocs/30anos/.git/config",
-					"settings":
-					{
-						"buffer_size": 388,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								335,
-								335
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
 					"file": "/C/xampp/htdocs/30anos/README.md",
 					"settings":
 					{
-						"buffer_size": 39,
+						"buffer_size": 42,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								39,
-								39
+								42,
+								42
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "/C/xampp/htdocs/30anos/quadranteconsultar.php",
-					"settings":
-					{
-						"buffer_size": 3907,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1255,
-								1255
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 468.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "/C/xampp/htdocs/30anos/pesquisar.php",
-					"settings":
-					{
-						"buffer_size": 3028,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1226,
-								1226
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 612.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "/C/xampp/htdocs/30anos/menu.php",
-					"settings":
-					{
-						"buffer_size": 721,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								535,
-								535
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
