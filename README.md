@@ -1,2 +1,2 @@
-# memorial30anos
-Memorial 30 anos - Update.2
+Memorial 30 anos
+Projeto para os 30 anos do Segue-me

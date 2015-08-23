@@ -3,11 +3,6 @@
     
     CONEXAO COM O BANCO DE DADOS
     
-    $host      = 'mysql1.paroquiadesantana.site.br.com';
-    $user      = 'paroquiadesanta2';
-    $pass      = 'P@ssw0rd';
-    $dbname    = 'paroquiadesantana1';
-
     $host      = 'localhost';
     $user      = 'root';
     $pass      = '';
