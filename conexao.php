@@ -12,7 +12,7 @@
     $host      = 'localhost';
     $user      = 'root';
     $pass      = '';
-    $dbname    = 'db30anos';
+    $dbname    = 'dbrifas';
 
     try 
     {
