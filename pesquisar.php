@@ -37,7 +37,7 @@
 		  		if ($Paroquia){
 		  			$sql = "SELECT * FROM paroquia WHERE ParoquiaCodigo=".$Paroquia;
 		  		}else{
-		  			$sql = "SELECT * FROM paroquia ORDER BY ParoquiaDescricao";
+		  			$sql = "SELECT * FROM paroquia WHERE Exibir = 1 ORDER BY ParoquiaDescricao";
 		  		}
 		      
 		      	$stm = $pdo->query($sql) OR die(implode('', $pdo->errorInfo()));

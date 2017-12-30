@@ -4,110 +4,186 @@
 		"selected_items":
 		[
 			[
-				"Par",
-				"Paroquia"
+				"report",
+				"error_reporting"
 			],
 			[
-				"Paroquia",
-				"ParoquiaCodigo"
+				"S",
+				"_SESSION"
+			],
+			[
+				"filter",
+				"filter_var"
+			],
+			[
+				"html",
+				"html_entity_decode"
+			],
+			[
+				"URL",
+				"urldecode"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"aute",
+				"autenticacao"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"_",
+				"_PWMAXSIZE"
+			],
+			[
+				"strlen",
+				"strlen"
+			],
+			[
+				"lngTipo",
+				"lngTipoCobranca"
+			],
+			[
+				"array_",
+				"array_flip"
+			],
+			[
+				"doubl",
+				"double"
+			],
+			[
+				"strre",
+				"str_replace"
+			],
+			[
+				"tie",
+				"titleLocal"
+			],
+			[
+				"confi",
+				"confirm"
+			],
+			[
+				"txtLoca",
+				"txtLocalGrupo"
+			],
+			[
+				"strt",
+				"strtoupper"
 			],
 			[
 				"strp",
 				"str_pad"
 			],
 			[
-				"unse",
-				"unset"
+				"registrar",
+				"registrarparticipante"
 			],
 			[
-				"PRINT",
-				"print_r"
+				"aler",
+				"alert"
 			],
 			[
-				"qu",
-				"quadrante"
+				"acomp",
+				"acompanhante"
 			],
 			[
-				"Encontro",
-				"EncontroAno"
+				"strto",
+				"strtolower"
 			],
 			[
-				"Lança",
-				"lançamento"
+				"RE",
+				"REMESSA"
 			],
 			[
-				"pA",
-				"Paroquia"
+				"hor",
+				"horária"
 			],
 			[
-				"head",
-				"header"
+				"PA",
+				"PAGAMENTO"
 			],
 			[
-				"count",
-				"iterator_count"
-			],
-			[
-				"En",
-				"Encontro"
-			],
-			[
-				"pAROQUI",
-				"ParoquiaCodigo"
+				"PAGA",
+				"PAGAMENTOS"
 			],
 			[
 				"print",
 				"print_r"
+			],
+			[
+				"a",
+				"alert"
+			],
+			[
+				"strDataF",
+				"strDataFinal"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"Ra",
+				"strRazaoSocial"
+			],
+			[
+				"funcion",
+				"funcionários"
+			],
+			[
+				"Valor",
+				"ValorCredenciado"
+			],
+			[
+				"pa",
+				"Pagamento"
+			],
+			[
+				"pagamento",
+				"PagamentoDespesa"
 			]
 		]
 	},
 	"buffers":
 	[
-		{
-			"file": "/C/xampp/htdocs/30anos/header.php",
-			"settings":
-			{
-				"buffer_size": 302,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/xampp/htdocs/30anos/head.php",
-			"settings":
-			{
-				"buffer_size": 1209,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/xampp/htdocs/30anos/README.md",
-			"settings":
-			{
-				"buffer_size": 52,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/xampp/htdocs/30anos/conexao.php",
-			"settings":
-			{
-				"buffer_size": 452,
-				"line_ending": "Windows"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 0.0,
+		"height": 127.0,
 		"selected_items":
 		[
+			[
+				"git  lo",
+				"Git: Diff All Files (Ignore Whitespace)"
+			],
+			[
+				"git lo",
+				"Git: Log All"
+			],
+			[
+				"git add",
+				"Git: Add Current File"
+			],
+			[
+				"git",
+				"Git: Commit"
+			],
+			[
+				"packga",
+				"Package Control: Install Package"
+			]
 		],
-		"width": 0.0
+		"width": 400.0
 	},
 	"console":
 	{
-		"height": 0.0
+		"height": 209.0
 	},
 	"distraction_free":
 	{
@@ -120,141 +196,169 @@
 	},
 	"file_history":
 	[
-		"/C/xampp/htdocs/30anos/index.php",
-		"/C/xampp/htdocs/30anos/lancamento.php",
-		"/C/xampp/htdocs/30anos/README.md",
-		"/C/xampp/htdocs/30anos/export2.php",
-		"/C/xampp/htdocs/30anos/conexao.php",
-		"/C/xampp/htdocs/30anos/ctrlSeguidores.php",
-		"/C/xampp/htdocs/30anos/menu.php",
-		"/C/xampp/htdocs/30anos/pesquisar.php",
-		"/C/xampp/htdocs/30anos/quadranteconsultar.php",
-		"/C/xampp/htdocs/30anos/.git/config",
-		"/C/xampp/htdocs/30anos/monitor.php",
-		"/C/xampp/htdocs/30anos/quadranteregistrar.php",
-		"/C/xampp/htdocs/30anos/PHPExcel/PHPExcel/CachedObjectStorage/CacheBase.php",
-		"/C/xampp/htdocs/30anos/PHPExcel/PHPExcel.php",
-		"/C/xampp/htdocs/30anos/export1.php",
-		"/C/xampp/htdocs/30anos/PHPExcel/PHPExcel/Worksheet.php",
-		"/C/xampp/htdocs/30anos/pesquisar1.php",
-		"/C/xampp/htdocs/30anos/namesController.js",
-		"/C/xampp/htdocs/efitness/_funcs.php",
-		"/C/xampp/htdocs/30anos/head.php",
-		"/C/xampp/htdocs/30anos/css/style.min.css",
-		"/C/xampp/htdocs/30anos/css/bootstrap.min.css",
-		"/C/xampp/htdocs/30anos/css/bootstrap.css.map",
-		"/C/xampp/htdocs/30anos/css/retina.min.css",
-		"/C/xampp/htdocs/30anos/css/bootstrap-theme.min.css",
-		"/C/xampp/htdocs/30anos/fotos.php",
-		"/C/xampp/htdocs/30anos/quadrantefotos.php",
-		"/C/xampp/htdocs/30anos/SAM_2886.JPG",
-		"/D/efitness/_funcs.php",
-		"/C/xampp/htdocs/30anos/header.php",
-		"/C/xampp/htdocs/30anos/pesquisar2.php",
-		"/C/xampp/htdocs/30anos/teste.php",
-		"/C/Users/DCortez/AppData/Local/Temp/Rar$DIa0.604/arrays.php",
-		"/C/Users/DCortez/AppData/Local/Temp/Rar$DIa0.205/scalar.php",
-		"/C/Users/DCortez/AppData/Local/Temp/Rar$DIa0.927/arrays.php",
-		"/C/xampp/htdocs/30anos/customers.php",
-		"/C/xampp/htdocs/30anos/footer.php",
-		"/C/xampp/htdocs/30anos/js/angular.min.js",
-		"/C/xampp/htdocs/30anos/library.php",
-		"/C/xampp/htdocs/30anos/PHPExcel/PHPExcel/Cell.php",
-		"/C/xampp/htdocs/30anos/export.php",
-		"/C/Users/DCortez/Downloads/Classes/PHPExcel.php",
-		"/C/xampp/htdocs/30anos/js/typeahead.min.js",
-		"/D/efitness/mov/pagamento.html.php",
-		"/C/xampp/htdocs/30anos/css/bootstrap.css",
-		"/D/efitness/mov/editarpagamento.html.php",
-		"/D/efitness/mov/control/recibo.php",
-		"/D/efitness/mov/matricula.html.php",
-		"/D/efitness/mov/entrada.php",
-		"/D/efitness/mov/estorno.html.php",
-		"/D/efitness/mcg/moeda.html.php",
-		"/D/efitness/mcg/musculo.html.php",
-		"/C/xampp/htdocs/30anos/quadrante.php",
-		"/C/xampp/htdocs/30anos/project/index.php",
-		"/D/4linux/projeto final/views/header.tpl.php",
-		"/D/4linux/projeto final/views/home.tpl.php",
-		"/D/4linux/projeto final/views/footer.tpl.php",
-		"/C/Users/DCortez/Downloads/exemplo_pdo/listar.php",
-		"/C/xampp/htdocs/30anos/config.php",
-		"/C/xampp/htdocs/30anos/banco.php",
-		"/C/xampp/htdocs/30anos/database.php",
-		"/C/Users/DCortez/Downloads/exemplo_pdo/editar.php",
-		"/C/Users/DCortez/Downloads/exemplo_pdo/usuarios.sql",
-		"/C/Users/DCortez/Downloads/exemplo_pdo/remover.php",
-		"/C/xampp/php/logs/php_error_log",
-		"/C/Users/DCortez/Downloads/exemplo_pdo/config.php",
-		"/C/xampp/htdocs/30anos/conexao3.php",
-		"/D/4linux/projeto final/lib/Carrinho.php",
-		"/D/4linux/projeto final/lib/Banco.php",
-		"/D/4linux/projeto final/index.php",
-		"/D/4linux/projeto final/views/clientes/ver.tpl.php",
-		"/D/4linux/projeto final/config.php",
-		"/D/4linux/projeto final/bootstrap.php",
-		"/D/4linux/aula07 - PDO - Parte 1/aula07.php",
-		"/C/xampp/htdocs/efitness/acesso.php",
-		"/C/xampp/htdocs/efitness/mca/usuarios.php",
-		"/C/xampp/htdocs/efitness/_conexao.php",
-		"/C/xampp/htdocs/efitness/data/caixa.class.php",
-		"/C/xampp/htdocs/efitness/mov/control/matricula.php",
-		"/C/xampp/htdocs/santana/configuration.php",
-		"/C/xampp/htdocs/efitness/mcg/cliente.html.php",
-		"/D/efitness/acesso.php",
-		"/D/efitness/_conexao.php",
-		"/C/xampp/htdocs/30anos/css/style.css",
-		"/C/xampp/htdocs/30anos/index.html",
-		"/C/xampp/apps/wordpress/htdocs/lembrancinhas.php",
-		"/C/xampp/apps/wordpress/htdocs/wp-content/themes/adventurous/footer.php",
-		"/C/xampp/apps/wordpress/htdocs/wp-content/themes/adventurous/comments.php",
-		"/C/xampp/apps/wordpress/htdocs/wp-config.php",
-		"/C/xampp/apps/wordpress/htdocs/wp-comments-post.php",
-		"/C/xampp/apps/wordpress/htdocs/wp-blog-header.php",
-		"/C/xampp/apps/wordpress/htdocs/wp-settings.php",
-		"/C/xampp/apps/wordpress/htdocs/wp-load.php",
-		"/C/xampp/apps/wordpress/htdocs/wp-content/themes/adventurous/home.php",
-		"/C/xampp/apps/wordpress/htdocs/index.html",
-		"/C/xampp/apps/wordpress/htdocs/wp-content/themes/adventurous/content-gallery.php",
-		"/C/xampp/apps/wordpress/htdocs/wp-content/themes/adventurous/content-page.php",
-		"/C/xampp/apps/wordpress/htdocs/wp-content/themes/adventurous/content-status.php",
-		"/C/xampp/apps/wordpress/htdocs/wp-content/themes/adventurous/content.php",
-		"/C/xampp/apps/wordpress/htdocs/wp-content/themes/adventurous/index.php",
-		"/C/xampp/apps/wordpress/htdocs/wp-content/themes/adventurous/license.txt",
-		"/C/xampp/apps/wordpress/htdocs/wp-content/themes/adventurous/no-results.php",
-		"/C/xampp/apps/wordpress/htdocs/wp-content/themes/adventurous/readme.txt",
-		"/C/xampp/apps/wordpress/htdocs/wp-content/themes/adventurous/page.php",
-		"/C/xampp/apps/wordpress/htdocs/wp-content/themes/adventurous/sidebar-footer.php",
-		"/C/xampp/apps/wordpress/htdocs/wp-content/themes/adventurous/sidebar-header-right.php",
-		"/C/xampp/apps/wordpress/htdocs/wp-content/themes/adventurous/sidebar.php",
-		"/C/xampp/apps/wordpress/htdocs/wp-content/themes/adventurous/single.php",
-		"/C/xampp/apps/wordpress/htdocs/wp-content/themes/adventurous/header.php",
-		"/C/xampp/apps/wordpress/htdocs/wp-content/themes/adventurous/functions.php",
-		"/C/xampp/apps/wordpress/htdocs/wp-content/themes/index.php",
-		"/C/xampp/apps/wordpress/htdocs/wp-content/themes/adventurous/inc/adventurous-custom-header.php",
-		"/C/xampp/apps/wordpress/htdocs/wp-content/themes/adventurous/image.php",
-		"/C/xampp/apps/wordpress/htdocs/wp-content/themes/adventurous/content-aside.php",
-		"/C/xampp/apps/wordpress/htdocs/wp-content/themes/adventurous/content-audio.php",
-		"/C/xampp/apps/wordpress/htdocs/wp-content/themes/adventurous/content-chat.php",
-		"/C/xampp/apps/wordpress/htdocs/wp-includes/post.php",
-		"/C/xampp/apps/wordpress/htdocs/wp-includes/bookmark.php",
-		"/C/xampp/apps/wordpress/htdocs/wp-includes/rewrite.php",
-		"/C/xampp/apps/wordpress/htdocs/index.php",
-		"/C/xampp/apps/wordpress/htdocs/wp-content/index.php",
-		"/C/xampp/apps/wordpress/htdocs/wp-includes/category.php",
-		"/C/xampp/apps/wordpress/htdocs/index2.php",
-		"/C/xampp/apps/wordpress/htdocs/wp-links-opml.php",
-		"/C/xampp/apps/wordpress/htdocs/wp-login.php"
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/gl/scripts/catraca.js",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/gl/mov/catraca.class.php",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/gl/mov/atualizarClientesCatracaHourly.php",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/gl/data/cliente.class.php",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/gl/mcg/clientetipoacesso.html.php",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/gl/mov/visitantes.html.php",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/gl/mov/catraca.html.php",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/gl/mov/pessoaacesso.class.php",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/gl/mov/locacaoparticipantes.html.php",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/gl/mov/registrarparticipante.php",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/gl/mov/importarlocacao.php",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/gl/mcg/cliente.html.php",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/gl/selecionarunidade.php",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/gl/autentica.php",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/gl/_auth.php",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/gl/mcg/cadastroacompanhante.html.php",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/gl/mov/historicodados.php",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/gl/mov/historicoaluno.php",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/gl/mov/historico.html.php",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/gl/mcg/principal.php",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/gl/style.css",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/gl/estilo.css",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/gs/mcg/cliente.html.php",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/gl/data/pesquisa.class.php",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/gl/mcg/parametro.html.php",
+		"/C/Users/D'Cortez/Downloads/gl/mcg/parametro.html.php",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/gl/estrutura/stoClienteHorarioAtivo.sql",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/gl/estrutura/stoAlunoHorarioAtivo.sql",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/gl/mov/atualizarAlunosCatraca.php",
+		"/C/Users/D'Cortez/Downloads/gl/mcg/control/parametro.php",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/gl/mcg/control/parametro.php",
+		"/C/Users/D'Cortez/Downloads/gl/estrutura/scripts/043 - ALTER TABLE cad_parametro.sql",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/gl/estrutura/scripts/043 - ALTER TABLE cad_parametro.sql",
+		"/C/Users/D'Cortez/Downloads/gl/estrutura/stoParametroSelecionar.sql",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/gl/estrutura/stoParametroSelecionar.sql",
+		"/C/Users/D'Cortez/Downloads/gl/estrutura/stoParametroSalvar.sql",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/gl/estrutura/stoParametroSalvar.sql",
+		"/C/Users/D'Cortez/Downloads/gl/data/parametro.class.php",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/gl/data/parametro.class.php",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/gl/mcg/unidade.html.php",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/gl/mcg/parametro-2.html.php",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/gs/rel/reciboempresa.html.php",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/gs/relatorios/pd.php",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/gs/data/producao.class.php",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/gs/rel/pd.html.php",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/gs/rel/recibosprof.html.php",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/gs/relatorios/relarrecadacaoprofexterno.php",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/gs/data/producaoexterna.class.php",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/gs/rel/empresasatendidas.html.php",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/gs/mcg/topicos.html.php",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/gs/config.php",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/gl/config.php",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/ge/config.php",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/gs/acesso.php",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/gl/acesso.php",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/ge/acesso.php",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/ge/autentica.php",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/gs/autentica.php",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/gs/relatorios/reciboimprimir.php",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/gs/prontuario/prontuario.html.php",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/ge/mov/atualizacaoacademica.html.php",
+		"/G/GoogleDrive/Two-factor authentication/token github.txt",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/gs/prontuario/control/prontuario.php",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/ge/mov/finalizarcurso.html.php",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/ge/data/certificado.class.php",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/pronatec/adm/folhaconsulta.html.php",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/pronatec/adm/control/folha.php",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/pronatec/data/folha.class.php",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/ge/relatorios/estatisticaecdetalhado.php",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/ge/relatorios/estatisticaecsintetico.php",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/ge/relatorios/estatisticaecempresa.php",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/gl/mov/reativar.html.php",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/gl/mov/control/matricula.php",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/gl/data/matricula.class.php",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/pronatec/adm/folhaabertura.html.php",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/gs/mcg/carteira_imp.php",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/gs/data/pesquisa.class.php",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/.gitignore",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/gl/rel/producao.html.php",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/gl/rel/exportacao.html.php",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/gl/rel/control/producao.php",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/ge/mov/control/exportacao.php",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/pronatec/adm/importacaoaluno.html.php",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/gl/mcg/precomensalidade.html.php",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/gl/mcg/control/precomensalidade.php",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/gs/_conexao.php",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/ge/_conexao.php",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/gl/_seguranca.php",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/gl/mov/alterarvencimento.html.php",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/gs/rel/producaoexterna.html.php",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/gs/relatorios/estsstextconsolidadoservico.php",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/gs/data/estatistico.class.php",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/gs/mcg/principal.php",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/gs/_funcs.php",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/gl/mov/cancelamento.html.php",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/gl/mov/isencao.html.php",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/gl/mov/parceladesconto.html.php",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/gs/_auth.php",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/gs/var.php",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/sis/config.php",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/ge/_auth.php",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/gs/_seguranca.php",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/ge/_seguranca.php",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/gl/_conexao.php",
+		"/C/Users/D'Cortez/Downloads/Validacao_CSRF_Token_do_Laravel.php",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/gs/modulos.php",
+		"/C/Users/D'Cortez/Downloads/VerifyCsrfToken.php",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/gs/_ModDados.class.php",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/gl/globais.php",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/ge/globais.php",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/gs/globais.php",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/gl/modulos.php",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/gl/rodape.php",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/gl/index.html",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/gs/_pesquisa.php",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/gs/relatorios/estmedextporprofissional.php",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/gs/mcg/control/tipoatendimento.php",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/gs/mcg/tipoatendimento.html.php",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/gs/mcg/imports4.html.php",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/gs/mcg/tabeladeprecoimport.html.php",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/gs/mcg/tabeladeprecoexport.html.php",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/cadindustrial/industria.php",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/gl/mcg/precoturma.html.php",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/gl/data/turma.class.php",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/gl/relatorios/precopersonalizado.php",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/gl/data/precomensalidade.class.php",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/gl/mcg/control/precoturma.php",
+		"/C/zwamp/vdrive/web/fiern/sis-fiern/gs/mcg/control/formadetrabalhodemanda.php"
 	],
 	"find":
 	{
-		"height": 34.0
+		"height": 36.0
 	},
 	"find_in_files":
 	{
 		"height": 0.0,
 		"where_history":
 		[
+			"C:\\zwamp\\vdrive\\web\\fiern\\sis-fiern\\ge",
+			"C:\\zwamp\\vdrive\\web\\fiern\\sis-fiern\\gl",
+			"C:\\zwamp\\vdrive\\web\\fiern\\sis-fiern",
+			"C:\\zwamp\\vdrive\\web\\fiern\\sis-fiern\\gs\\relatorios",
+			"C:\\zwamp\\vdrive\\web\\fiern\\sis-fiern\\gl\\rel",
+			"C:\\zwamp\\vdrive\\web\\fiern\\sis-fiern\\gs",
+			"C:\\zwamp\\vdrive\\web\\fiern\\sis-fiern\\gl",
+			"C:\\zwamp\\vdrive\\web\\fiern\\sis-fiern\\gs",
+			"C:\\zwamp\\vdrive\\web\\fiern\\sis-fiern",
+			"C:\\zwamp\\vdrive\\web\\fiern\\sis-fiern\\gs",
+			"C:\\zwamp\\vdrive\\web\\fiern\\sis-fiern\\pronatec",
+			"C:\\zwamp\\vdrive\\web\\fiern\\sis-fiern\\gs",
+			"C:\\zwamp\\vdrive\\web\\fiern\\sis-fiern\\pronatec",
+			"C:\\zwamp\\vdrive\\web\\fiern\\sis-fiern\\gs",
+			"C:\\zwamp\\vdrive\\web\\fiern\\sis-fiern\\pronatec",
+			"C:\\zwamp\\vdrive\\web\\fiern\\sis-fiern\\pronatec\\data",
+			"C:\\zwamp\\vdrive\\web\\fiern\\sis-fiern\\pronatec",
+			"C:\\zwamp\\vdrive\\web\\fiern\\sis-fiern\\pronatec\\data",
+			"C:\\zwamp\\vdrive\\web\\fiern\\sis-fiern\\pronatec",
+			"C:\\zwamp\\vdrive\\web\\fiern\\sis-fiern\\pronatec\\adm",
+			"C:\\zwamp\\vdrive\\web\\fiern\\sis-fiern\\pronatec",
+			"C:\\zwamp\\vdrive\\web\\fiern\\sis-fiern\\gs",
+			"C:\\zwamp\\vdrive\\web\\fiern\\sis-fiern\\gs\\rec",
+			"C:\\zwamp\\vdrive\\web\\fiern\\sis-fiern\\cadindustrial",
+			"C:\\zwamp\\vdrive\\web\\fiern\\sis-fiern\\gs"
 		]
 	},
 	"find_state":
@@ -262,58 +366,134 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"width:220px",
-			"size",
-			"max",
-			"Max",
-			"'",
-			"circl",
-			"circle",
-			"circleSta",
-			"circleStatsItemBox",
-			"200px",
-			"210px",
-			"220px",
-			"myCarousel",
-			"setTitle",
-			"conv",
-			"setTitle",
-			"($ordem+1)",
-			"$sheet",
-			"$objPHPExcel",
-			"navbar-header",
-			"navbar-brand",
-			"$Gravar",
-			"EncontroDigitado",
-			"Quantidade",
-			"input",
-			"p",
-			"btn-info",
-			"header",
-			"onchan",
-			"quadrante.php",
-			"$pdo",
-			"index.php",
-			"Seguimista",
-			"Paroquia",
-			"private static ",
-			"\n     ",
-			"mysql_fetch_array",
-			"db_ExecutaSQL",
-			"$ordem",
-			"iconv",
-			"conv",
-			"pagination",
-			">\n",
-			"col-sm-4",
-			".xlsx",
-			"XVIII_Segue-me_Santana_-_",
-			"_-",
-			"home",
-			"comments_popup_link",
-			"hom",
-			"Hom",
-			"Leav"
+			"hidd",
+			"strCatracaLocalizacao",
+			"$strCatracaLocalizacao",
+			"strCatracaLocalizacao",
+			"HIDD",
+			"$strCatracaLocalizacao",
+			"sessio",
+			"txtCatracaSituacao",
+			"strCatracaSituacao",
+			"txtCatraca",
+			"callback",
+			"onSave",
+			"onUsuarioSave",
+			"txtCatracaSituacao",
+			"Ativo",
+			"ativo",
+			"salvarAcompanhanteCatraca",
+			"salvarVisitanteCatraca",
+			"getDadosVisitanteCatraca",
+			"txtCatracaSituacao",
+			"ativo",
+			"$strCatraca",
+			"strCatraca",
+			"txtCatracaSituacao",
+			"Ativo",
+			"txtCatracaSituacao",
+			"Ativo",
+			"strCatracaSituacao",
+			"getDataNascimento",
+			"catraca",
+			"onUsuarioSave",
+			"tudo",
+			"geral",
+			"$strCorValidade",
+			"validade",
+			"strCatracaSituacao",
+			"$strAtivo",
+			"Ativo",
+			"txtEstado",
+			"Ativo",
+			"$strNomeMae",
+			"LerCliente",
+			"===",
+			"bloquear",
+			"Persona",
+			"txtTaxaAcesso",
+			"===",
+			"isUsuarioAluno",
+			"salvarUsuarioCatraca",
+			"txtMes",
+			"atualizacao",
+			"tok",
+			"txtUnida",
+			"Gerar M",
+			"<<",
+			"Cell(199, 5",
+			"<?",
+			"<<",
+			"unidade(",
+			"Submeter",
+			"ValidaForm",
+			"txtUnidade",
+			"$tipoCliente",
+			"$rsCliente[0][\"IdTipoCliente\"]",
+			"IdTipoCliente",
+			"rsCarteira",
+			"rsUnidade",
+			"Cliente",
+			"exporta",
+			"exportac",
+			"exportarcontabil",
+			"exportacao",
+			"codEstudante",
+			"codMunicipio",
+			"grdPrecos",
+			"vencimento_Alterar",
+			"161",
+			"160",
+			"ipo de",
+			"tipo de",
+			"txtTipoCliente",
+			"CLoadNotify",
+			"STYLE_1",
+			"STYLE_0",
+			"principal",
+			"menu_Select",
+			"http://",
+			"registerCookie",
+			"$servidor",
+			"registerCookie",
+			"tokensMatch",
+			"token",
+			"registerSuccess",
+			"session_start",
+			"v",
+			"$msg",
+			"acesso.php",
+			"$_GET",
+			"die",
+			"die(",
+			"die",
+			"sTabelaConsulta",
+			"insert",
+			"strrazaosocial",
+			"razão soci",
+			"rig",
+			"alig",
+			"contaexcluir",
+			"excl",
+			"lerforma",
+			"txtFormaTrabalho",
+			"procedimentos",
+			"clsFormaTrabalho",
+			"FormaT",
+			"stoFormaTrabalho",
+			"54.94.162.184",
+			"salvarUsuarioCatraca",
+			"catraca",
+			"elb-server-windows-ws-504178691.sa-east-1.elb.amazonaws.com",
+			"54.94.162.184",
+			"LerEmpresa",
+			"cmdLer",
+			"novo",
+			";\n",
+			"eseja",
+			"deseja",
+			"lermatriculasaluno",
+			"grdDados"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -321,21 +501,102 @@
 		"regex": false,
 		"replace_history":
 		[
-			"width:320px",
-			"180px",
-			"200px",
-			"210px",
-			"$linha",
-			"$newSheet",
-			"$sheet",
-			"quadranteconsultar.php",
-			"quadrante.php",
-			"private ",
-			"private",
-			".pdf",
-			""
+			"Cell(200, 5",
+			"",
+			"$server",
+			"_token",
+			"$_POST",
+			"clsFormaTrabalhoDemanda",
+			"stoFormaTrabalhoDemanda",
+			"elb-server-windows-ws-504178691.sa-east-1.elb.amazonaws.com",
+			"$_POST",
+			"",
+			"$_POST",
+			"$rs",
+			"registerFailure",
+			"$rs2[0][\"",
+			"$rs[0][",
+			"$auth",
+			"_MAXSIZE",
+			"\"]);",
+			"trim(",
+			",BR0",
+			"\",1);",
+			"[0]",
+			"\", 1);",
+			"TOTAL GERAL:",
+			"$this->SetFont(\"Arial\", \"B\", 10)",
+			"$this->Image(\"../imagens/sesi.jpg\", 178, 9, 25)",
+			"$this->Image(\"../imagens/nomesistema.jpg\", 10, 9, 15)",
+			"TOTAL GERAL:",
+			"",
+			"$rs",
+			"http://54.94.162.184",
+			"1",
+			"$rs",
+			"$Operacao",
+			"//$Operacao",
+			"",
+			"$intUnidade",
+			"intUnidade",
+			"http://54.94.162.184",
+			"54.94.162.184",
+			"IdLocalGrupo",
+			"clsLocalGrupo",
+			"stoLocalGrupo",
+			"rdsteste.cp2d02hfiflo.sa-east-1.rds.amazonaws.com",
+			"rds-producao.cp2d02hfiflo.sa-east-1.rds.amazonaws.com",
+			"rdsteste.cp2d02hfiflo.sa-east-1.rds.amazonaws.com",
+			"$oFolha = Dados::instanciar();",
+			"$mySQL = Dados::instanciar();",
+			"",
+			"return $this->mySQL->execSP",
+			"PRONATEC",
+			"strValorRejeitado",
+			"set_time_limit('40')",
+			"\", 1);",
+			"(277",
+			"\", 1);",
+			"(215",
+			"(277",
+			"Cell(162",
+			"Indústrias",
+			" o paciente",
+			"t_",
+			"document.frm",
+			"/tr",
+			"/td",
+			"<td",
+			"<tr",
+			"tr",
+			"horariosagendados2.",
+			"s4",
+			"$rs",
+			"$oProducao",
+			"_GUIAINDUSTRIAL",
+			"$rsContabil",
+			"$rs",
+			"$oProducao",
+			"$rs",
+			"$oProducao",
+			"35,",
+			"$rsContabil",
+			"[$a]",
+			"$rsAnalitico",
+			"[$s]",
+			"$rsSintetico",
+			"$rs[0]",
+			"strNotaFiscal",
+			"$oProducao",
+			"$rs",
+			"$oProducao",
+			"$rs",
+			"oProducao",
+			"celAbaProvisao",
+			"celAbaProducao",
+			"172"
 		],
-		"reverse": true,
+		"reverse": false,
 		"show_context": true,
 		"use_buffer2": true,
 		"whole_word": false,
@@ -344,125 +605,18 @@
 	"groups":
 	[
 		{
-			"selected": 3,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "/C/xampp/htdocs/30anos/header.php",
-					"settings":
-					{
-						"buffer_size": 302,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								8,
-								8
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "/C/xampp/htdocs/30anos/head.php",
-					"settings":
-					{
-						"buffer_size": 1209,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1209,
-								1209
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 17.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "/C/xampp/htdocs/30anos/README.md",
-					"settings":
-					{
-						"buffer_size": 52,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								47,
-								47
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "/C/xampp/htdocs/30anos/conexao.php",
-					"settings":
-					{
-						"buffer_size": 452,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								60,
-								60
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 34.0
+		"height": 0.0
 	},
 	"input":
 	{
-		"height": 31.0
+		"height": 36.0
 	},
 	"layout":
 	{
@@ -487,9 +641,13 @@
 		]
 	},
 	"menu_visible": true,
+	"output.git":
+	{
+		"height": 172.0
+	},
 	"replace":
 	{
-		"height": 62.0
+		"height": 278.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -497,21 +655,533 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"relatorios/pd.",
+				"gs/relatorios/pd.php"
+			],
+			[
+				"pd.html",
+				"gs/rel/pd.html.php"
+			],
+			[
+				"rel/reciboempresa",
+				"gs/rel/reciboempresa.html.php"
+			],
+			[
+				"relrecibopro",
+				"gs/rel/recibosprof.html.php"
+			],
+			[
+				"relarrecadacaoprofexterno",
+				"gs/relatorios/relarrecadacaoprofexterno.php"
+			],
+			[
+				"rel/reciboempresa.html.php",
+				"gs/rel/reciboempresa.html.php"
+			],
+			[
+				"relempresa",
+				"gs/rel/empresasatendidas.html.php"
+			],
+			[
+				"topicos",
+				"gs/mcg/topicos.html.php"
+			],
+			[
+				"reciboi",
+				"gs/relatorios/reciboimprimir.php"
+			],
+			[
+				"folhaconsulta",
+				"pronatec/adm/folhaconsulta.html.php"
+			],
+			[
+				"estatisticaecdetalhado",
+				"ge/relatorios/estatisticaecdetalhado.php"
+			],
+			[
+				"estatisticaecempresa",
+				"ge/relatorios/estatisticaecempresa.php"
+			],
+			[
+				"estatisticaecsintetico",
+				"ge/relatorios/estatisticaecsintetico.php"
+			],
+			[
+				"carte",
+				"gs/mcg/carteira_imp.php"
+			],
+			[
+				"carteira_imp.php",
+				"gs/mcg/carteira_imp.php"
+			],
+			[
+				"estsstextconsolidado",
+				"gs/relatorios/estsstextconsolidadoservico.php"
+			],
+			[
+				"industria.php",
+				"cadindustrial/industria.php"
+			],
+			[
+				"relatorios/precopersonalizado.php",
+				"gl/relatorios/precopersonalizado.php"
+			],
+			[
+				"formprocedimentos",
+				"gs/mcg/formprocedimentos.html.php"
+			],
+			[
+				"gs/relatorios/reciboimprimir",
+				"gs/relatorios/reciboimprimir.php"
+			],
+			[
+				"gl/relatorios/relacaoturma.php",
+				"gl/relatorios/relacaoturma.php"
+			],
+			[
+				"relacaoturma",
+				"ge/relatorios/relacaoturma.php"
+			],
+			[
+				"mapadefrequencia",
+				"gl/relatorios/mapadefrequencia.php"
+			],
+			[
+				"relestatisticocarteirasempresa",
+				"gs/relatorios/relestatisticocarteirasempresa.php"
+			],
+			[
+				"recibosprof",
+				"gs/rel/recibosprof.html.php"
+			],
+			[
+				"autorizar",
+				"gs/mce/autorizardesconto.html.php"
+			],
+			[
+				"relatorios/recibopersonal.php",
+				"gl/relatorios/recibopersonal.php"
+			],
+			[
+				"gl/relatorios/relcaixa.php",
+				"gl/relatorios/relcaixa.php"
+			],
+			[
+				"recibolo",
+				"gd/relatorios/recibolocacao.php"
+			],
+			[
+				"recibovisita",
+				"gl/relatorios/recibovisita.php"
+			],
+			[
+				"precomensalidade.php",
+				"gl/relatorios/precomensalidade.php"
+			],
+			[
+				"precomatricula",
+				"gl/relatorios/precomatricula.php"
+			],
+			[
+				"mov/horariolo",
+				"gl/mov/control/horariolocacao.php"
+			],
+			[
+				"relprovisao",
+				"gs/relatorios/relprovisao.php"
+			],
+			[
+				"empresasatendidasgroupmunicipio",
+				"gs/relatorios/empresasatendidasgroupmunicipio.php"
+			],
+			[
+				"empresasatendidasmunicipio",
+				"gs/relatorios/empresasatendidasmunicipio.php"
+			],
+			[
+				"empresasatendidas",
+				"gs/relatorios/empresasatendidas.php"
+			],
+			[
+				"estsstextrelacao",
+				"gs/relatorios/estsstextrelacao.php"
+			],
+			[
+				"estodtextrelacao",
+				"gs/relatorios/estodtextrelacao.php"
+			],
+			[
+				"estmedextrelacao",
+				"gs/relatorios/estmedextrelacao.php"
+			],
+			[
+				"estmadextrelacao",
+				"gs/relatorios/estmadextrelacao.php"
+			],
+			[
+				"estmedextporempresa",
+				"gs/relatorios/estmedextporempresa.php"
+			],
+			[
+				"estmedcondensado",
+				"gs/relatorios/estmedcondensado.php"
+			],
+			[
+				"empresasatend",
+				"gs/rel/empresasatendidas.html.php"
+			],
+			[
+				"inadimpl",
+				"gl/relatorios/inadimplentesdemonstrativo.php"
+			],
+			[
+				"inadimplentesanalitico",
+				"gl/relatorios/inadimplentesanalitico.php"
+			],
+			[
+				"relatendempresacontabil",
+				"gs/relatorios/relatendempresacontabil.php"
+			],
+			[
+				"relatendempresa",
+				"gs/relatorios/relatendempresa.php"
+			],
+			[
+				"atendempresa",
+				"gs/rel/atendempresa.html.php"
+			],
+			[
+				"gs/relatorios/relatendempresacontabil.php",
+				"gs/relatorios/relatendempresacontabil.php"
+			],
+			[
+				"certificadoec",
+				"ge/relatorios/certificadoec.php"
+			],
+			[
+				"catracausuariospresentes",
+				"gl/relatorios/catracausuariospresentes.php"
+			],
+			[
+				"ocupacao",
+				"gl/ger/ocupacaoatual.html.php"
+			],
+			[
+				"atendimentoshora",
+				"gs/relatorios/atendimentoshora.php"
+			],
+			[
+				"matricula",
+				"gl/mov/matricula.html.php"
+			],
+			[
+				"ge/mov/matricua",
+				"ge/mov/matricula.html.php"
+			],
+			[
+				"visitante",
+				"gl/mov/visitantes.html.php"
+			],
+			[
+				"historicocatraca.php",
+				"gl/mov/historicocatraca.php"
+			],
+			[
+				"relatoriocatraca",
+				"gl/mov/relatoriocatraca.php"
+			],
+			[
+				"historico.htm",
+				"gl/mov/historico.html.php"
+			],
+			[
+				"logfluxo",
+				"gs/rel/control/logfluxo.php"
+			],
+			[
+				"rellog",
+				"gs/rel/logfluxo.html.php"
+			],
+			[
+				"rel/control/logfluxo.php",
+				"gs/rel/control/logfluxo.php"
+			],
+			[
+				"gs/data/recepcao",
+				"gs/data/recepcao.class.php"
+			],
+			[
+				"rec/control/recepcao.php",
+				"gs/rec/control/recepcao.php"
+			],
+			[
+				"consultarec",
+				"gs/mce/consultarecibo.html.php"
+			],
+			[
+				"senhaagendamento",
+				"gs/rec/senhaagendamento.php"
+			],
+			[
+				"recepcao_princia",
+				"gs/rec/recepcao_principal.html.php"
+			],
+			[
+				"guiche_a",
+				"gs/rec/guiche_atendimento.html.php"
+			],
+			[
+				"recepca",
+				"gs/rec/recepcao_principal.html.php"
+			],
+			[
+				"filtroaco",
+				"gs/atendimento/filtroacolhimento.html.php"
+			],
+			[
+				"filtroate",
+				"gs/atendimento/filtroatendimento.html.php"
+			],
+			[
+				"guiche_ate",
+				"gs/rec/guiche_atendimento.html.php"
+			],
+			[
+				"relatorios/senha",
+				"gs/relatorios/senha.php"
+			],
+			[
+				"senhasgeradas",
+				"gs/rec/senhasgeradas.php"
+			],
+			[
+				"recepcao_pr",
+				"gs/rec/recepcao_principal.html.php"
+			],
+			[
+				"recepcao_prini",
+				"gs/rec/recepcao_principal.html.php"
+			],
+			[
+				"prontuario.html.php",
+				"gs/atendimento/prontuario.html.php"
+			],
+			[
+				"atendimentomedico",
+				"gs/atendimento/control/atendimentomedico.php"
+			],
+			[
+				"atendimentomed",
+				"gs/atendimento/control/atendimentoodontologico.php"
+			],
+			[
+				"relsenhas.php",
+				"gs/rec/relsenhas.php"
+			],
+			[
+				"recepcao_",
+				"gs/rec/recepcao_principal.html.php"
+			],
+			[
+				"gs/relatorios/relrecibo",
+				"gs/relatorios/relreciboprocessados.php"
+			],
+			[
+				"recibospro",
+				"gs/rel/recibosprof.html.php"
+			],
+			[
+				"recalcular",
+				"gs/rel/recalcular.html.php"
+			],
+			[
+				"ge/relatorios/sca",
+				"ge/relatorios/scae.php"
+			],
+			[
+				"scae",
+				"gl/relatorios/scae.php"
+			],
+			[
+				"certificado",
+				"ge/relatorios/certificadoec.php"
+			],
+			[
+				"certificadoe",
+				"ge/relatorios/certificadoec.php"
+			],
+			[
+				"pd.h",
+				"gs/relatorios/pd.php"
+			],
+			[
+				"relreciboempresa",
+				"gs/relatorios/relreciboempresa.php"
+			],
+			[
+				"reciboem",
+				"gs/rel/reciboempresa.html.php"
+			],
+			[
+				"relreciboempresa.php",
+				"gs/relatorios/relreciboempresa.php"
+			],
+			[
+				"control/recibo.php",
+				"gs/mce/control/recibo.php"
+			],
+			[
+				"segundavia",
+				"gs/mce/segundavia.html.php"
+			],
+			[
+				"exportacao.php",
+				"ge/mov/control/exportacao.php"
+			],
+			[
+				"exportacao.p",
+				"gl/mov/control/exportacao.php"
+			],
+			[
+				"gerarsenha_recepcao",
+				"gs/rec/gerarsenha_recepcao.html.php"
+			],
+			[
+				"isentar",
+				"gs/mce/isentarpagamento.html.php"
+			],
+			[
+				"registrarparticipante",
+				"gl/mov/registrarparticipante.php"
+			],
+			[
+				"locacaopar",
+				"gl/mov/locacaoparticipantes.html.php"
+			],
+			[
+				"participanteslocacao",
+				"gl/relatorios/participanteslocacao.php"
+			],
+			[
+				"rello",
+				"gl/relatorios/locacoesagendadas.php"
+			],
+			[
+				"participanteslocacao.php",
+				"gl/relatorios/participanteslocacao.php"
+			],
+			[
+				"reldis",
+				"ge/relatorios/disciplinas.php"
+			],
+			[
+				"relreciboprofissional.php",
+				"gl/relatorios/relreciboprofissional.php"
+			],
+			[
+				"exportacaoex",
+				"gs/rel/control/exportacaoexcel.php"
+			],
+			[
+				"exportacaosmd.php",
+				"gl/est/control/exportacaosmd.php"
+			],
+			[
+				"smd",
+				"gs/rel/smd.html.php"
+			],
+			[
+				"exportacaoexcel.php",
+				"gs/rel/control/exportacaoexcel.php"
+			],
+			[
+				"exportacaosmd",
+				"gs/rel/control/exportacaosmd.php"
+			],
+			[
+				"importacaoaluno.html.php",
+				"pronatec/adm/importacaoaluno.html.php"
+			],
+			[
+				"data/turma.",
+				"ge/data/turma.class.php"
+			],
+			[
+				"turmaec",
+				"ge/mov/turmaec.html.php"
+			],
+			[
+				"storeciboinserir",
+				"gs/estrutura/stoReciboInserir.sql"
+			],
+			[
+				"smd.php",
+				"gl/est/control/smd.php"
+			],
+			[
+				"importacaoa",
+				"pronatec/adm/importacaoaluno.html.php"
+			],
+			[
+				"pronatec/adm/importacaoaluno.html.php",
+				"pronatec/adm/importacaoaluno.html.php"
+			],
+			[
+				"visitantes",
+				"gl/mov/visitantes.html.php"
+			],
+			[
+				"acompanhan",
+				"gl/mcg/cadastroacompanhante.html.php"
+			],
+			[
+				"gs/mcg/empresa",
+				"gs/mcg/empresa.html.php"
+			],
+			[
+				"empresa",
+				"ge/mcg/empresa.html.php"
+			],
+			[
+				"empresaum",
+				"gs/mcg/empresauma.html.php"
+			],
+			[
+				"empresaam",
+				"gs/mcg/empresaambos.html.php"
+			],
+			[
+				"catraca.js",
+				"gl/scripts/catraca.js"
+			],
+			[
+				"clientetipoacesso",
+				"gl/mcg/clientetipoacesso.html.php"
+			],
+			[
+				"visita",
+				"gl/mov/visitantes.html.php"
+			],
+			[
+				"relvisi",
+				"gl/relatorios/relvisitantes.php"
+			]
 		],
 		"width": 0.0
 	},
 	"select_project":
 	{
-		"height": 0.0,
+		"height": 500.0,
 		"selected_items":
 		[
 		],
-		"width": 0.0
+		"width": 380.0
 	},
 	"show_minimap": true,
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 250.0,
+	"side_bar_width": 363.0,
 	"status_bar_visible": true
 }

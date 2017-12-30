@@ -19,7 +19,8 @@
 	      	WHERE  	q.ParoquiaCodigo = $Paroquia
 	      			AND q.EncontroNumero = e.EncontroNumero
 	          		AND q.ParoquiaCodigo = e.ParoquiaCodigo	          		
-	          		AND q.ParoquiaCodigo = p.ParoquiaCodigo	          		
+	          		AND q.ParoquiaCodigo = p.ParoquiaCodigo
+	          		AND p.Exibir = 1	          		
 	       	ORDER BY q.NomeCompleto";
 
 	$oQuadrante = $pdo->query($sql) OR die(implode('', $pdo->errorInfo()));

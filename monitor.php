@@ -41,6 +41,7 @@
 						AND Digitado = 1) AS Digitado
 					FROM	paroquia p, encontro e
 					WHERE 	p.ParoquiaCodigo = e.ParoquiaCodigo
+							AND p.Exibir = 1
 					GROUP BY p.ParoquiaCodigo
 					ORDER BY ParoquiaDescricao";
 					

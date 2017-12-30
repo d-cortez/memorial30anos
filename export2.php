@@ -25,7 +25,7 @@
 	$p 	 	= 1;
 	$linha 	= 2;
 	
-	$sql = "SELECT * FROM paroquia ORDER BY ParoquiaDescricao";
+	$sql = "SELECT * FROM paroquia WHERE Exibir = 1 ORDER BY ParoquiaDescricao";
 	$oParoquia = $pdo->query($sql) OR die(implode('', $pdo->errorInfo()));
 
 	while( $row = $oParoquia->fetch(PDO::FETCH_ASSOC) ){

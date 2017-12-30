@@ -25,7 +25,7 @@
 			  	<select name="txtParoquia" class="form-control" id="txtParoquia" style="width:350px" onChange="SelecionarParoquia(this.value)">
 					<option value="0">---</option>				
 					<?php
-				      $sql = "SELECT * FROM paroquia ORDER BY ParoquiaDescricao";
+				      $sql = "SELECT * FROM paroquia WHERE Exibir = 1 ORDER BY ParoquiaDescricao";
 				      $stm = $pdo->query($sql) OR die(implode('', $pdo->errorInfo()));
 
 				      while( $row = $stm->fetch(PDO::FETCH_ASSOC) ){
